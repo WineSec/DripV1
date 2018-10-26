@@ -30,4 +30,4 @@ cd DripV1
 sudo chmod 777 *
 clear
 echo "Installation done"
-./menu
+./Drip.py
