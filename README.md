@@ -1,6 +1,7 @@
 # DripV1
 #
 #
+# Install.sh is only file you need to download
 DripV1 is a python3 tool to make easy access to tools within Kali linux. (Still working on centos)
 For DoS to work it will require being on a Virtual Private server, BE WARNED as using this is ILLEGAL and digitalocean servers will get 
 Banned for using it.
