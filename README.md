@@ -1,6 +1,7 @@
 # DripV1
 #
-#
+# THIS PROJECT IS NO LONGER IN DEVELOPMENT AS IT IS MORE SIMPLE TO WRITE IN SHELL
+# CHECK REPOSITORYS OF MINE THERE IS A NEW TOOL THAT HAS MORE THAN JUST THIS ONE
 DripV1 is a python3 tool to make easy access to tools within Parrot os. (Still working on centos)
 For DoS to work it will require being on a Virtual Private server, BE WARNED as using this is ILLEGAL and digitalocean servers will get 
 Banned for using it (havent tested in vps yet please be patient).
